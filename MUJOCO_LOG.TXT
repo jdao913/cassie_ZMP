@@ -1,0 +1,30 @@
+Thu May 23 21:08:46 2019
+ERROR: Could not open activation key file mjkey.txt
+
+Thu May 23 21:09:55 2019
+ERROR: Could not open activation key file mjkey.txt
+
+Thu May 23 21:10:00 2019
+ERROR: Load model error: XML parse error at line 224, column 5:
+Error reading end tag.
+
+
+Thu May 23 21:10:05 2019
+ERROR: Load model error: Error: could not open STL file './cassie-stl-meshes/pelvis.stl'
+Object name = cassie-pelvis, id = 0, line = 44, column = 5
+
+Fri May 24 11:32:11 2019
+ERROR: Load model error: XML parse error at line 224, column 5:
+Error reading end tag.
+
+
+Fri May 24 12:46:51 2019
+ERROR: Load model error: Error: range[0] should be smaller than range[1] in joint 'zmp_joint' (id = 26)
+Object name = zmp_joint, id = 26, line = 222, column = 7
+
+Fri May 24 19:58:20 2019
+ERROR: Invalid geom type 6 for connector
+
+Fri May 24 19:59:52 2019
+ERROR: Invalid geom type 6 for connector
+

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/zmp_test.dir/zmp_test.c.o  -o bin/zmp_test  -L/home/drl/.mujoco/mujoco200_linux/bin -Wl,-rpath,/home/drl/.mujoco/mujoco200_linux/bin -lglfw3 -lmujoco200 -lstdc++ -lglew -lGL 
